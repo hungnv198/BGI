@@ -1,5 +1,5 @@
 .main .image{
-    background-image: url("/Images/OIP.jpg");
+    background-image: url('../img/OIP.jpg');
     padding-top: 50%;
     background-repeat: no-repeat;
 }
