@@ -1,5 +1,5 @@
 .main .image{
     background-image: url("/assets/image/OIP.jpg");
-    width: 100px;
-    height: 100px;
+    padding-top: 50%;
+    background-repeat: no-repeat;
 }
