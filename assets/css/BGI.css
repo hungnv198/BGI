@@ -1,5 +1,5 @@
 .main .image{
-    background-image: url('https://github.com/hungnv198/BGI/tree/main/assets/image/OIP.jpg');
+    background-image: url('.. /assets/image/OIP.jpg');
     width: 100px;
     height: 100px;
 }
